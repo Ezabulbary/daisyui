@@ -52,7 +52,7 @@ data="{[
 }</pre>
 </Component>
 
-<Component title="Outline badge">
+<Component title="badge">
 <div class="badge badge-outline">neutral</div>
 <div class="badge badge-primary badge-outline">primary</div>
 <div class="badge badge-secondary badge-outline">secondary</div>
